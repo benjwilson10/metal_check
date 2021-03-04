@@ -1,7 +1,7 @@
 name: metal_check
 description: A simple package to check is Metal is available on the device.
 version: 0.0.1
-homepage:
+homepage: https://github.com/benjwilson10/metal_check.git
 
 environment:
   sdk: ">=2.7.0 <3.0.0"

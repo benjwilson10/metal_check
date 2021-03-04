@@ -1,6 +1,6 @@
 # metal_check
 
-A new flutter plugin project.
+A simple package to check is Metal is available on the device
 
 ## Getting Started
 
