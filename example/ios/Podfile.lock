@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - metal_check (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - metal_check (from `.symlinks/plugins/metal_check/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  metal_check:
+    :path: ".symlinks/plugins/metal_check/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  metal_check: f2a10b734baaa3d9ada89f3906b89b5b44afd7fd
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.10.1
